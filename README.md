@@ -6,8 +6,8 @@
   }
   acerca-de-mi : {
                         estudios: "Analisis y desarrollo de sistemas",
-                        idioma: "Español", "Ingles - nivel medio"
-                        edad: 18
+                        idioma: "Español", "Ingles - nivel medio",
+                        edad: 18,
                         me: "soy un estudiante de tecnologia en analisis y desarrollo de sistemas
                         tengo 18 años, soy bastante recursivo busco nuevas herramientas y habilidades
                         que me ayuden a agilizar y automatizar diferentes tareas y disfruto adquirir
