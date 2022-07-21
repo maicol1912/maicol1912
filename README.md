@@ -5,10 +5,10 @@
   adicional: [Git, Bootstrap, English],
   }
   acerca-de-mi : {
-                        studies: "Analisis y desarrollo de sistemas",
-                        speaker: "español",
-                        age: 18
-                        yo: "soy un estudiante de tecnologia en analisis y desarrollo de sistemas
+                        estudios: "Analisis y desarrollo de sistemas",
+                        idioma: "Español", "Ingles - nivel medio"
+                        edad: 18
+                        me: "soy un estudiante de tecnologia en analisis y desarrollo de sistemas
                         tengo 18 años, soy bastante recursivo busco nuevas herramientas y habilidades
                         que me ayuden a agilizar y automatizar diferentes tareas y disfruto adquirir
                         nuevos conocimientos dia a dia"
