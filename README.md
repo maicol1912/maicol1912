@@ -5,7 +5,7 @@
   databases: [MySql, MongoDB],
   adicional: [Git, Bootstrap, English],
   
-  acerca-de-mi : {
+  acercaDeMi : {
                         estudios: "Analisis y desarrollo de sistemas",
                         idioma: "Español", "Ingles - nivel medio",
                         edad: 18,
