@@ -1,4 +1,5 @@
-const Maicol Arcila = {
+  ```javascript
+  const Maicol Arcila = {
   lenguajes: [Javascript,HTML, CSS, Java, Python, Java],
   Frameworks: [React, Django, Spring Boot],
   adicional: [Git, Bootstrap, English],
@@ -12,5 +13,5 @@ const Maicol Arcila = {
                         que me ayuden a agilizar y automatizar diferentes tareas y disfruto adquirir
                         nuevos conocimientos dia a dia"
                       }
- 
+ ```
 
