@@ -1,5 +1,5 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-![me](https://pbs.twimg.com/profile_banners/1550170123683635200/1658424498/1500x500)
+![me](https://twitter.com/MaicolArcila7/header_photo)
 
 I am Maicol Arcila, I am 18 years old, I am a student of technology in systems at the sena i love programming and learn new things everyday 
                    
