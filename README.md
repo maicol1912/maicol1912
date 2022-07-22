@@ -6,9 +6,9 @@ I am Maicol Arcila, I am 18 years old, I am a student of technology in systems a
  
  🔭 I am an organized, responsible and very dedicated person.
  
- 🌱 I work well in stress situations and I am good at working in a team I can take on various roles without problems
+ 🌱 I work well in stress situations and I am good at working in a team, I can take on various roles without problems.
  
- 👯 I like sports and enjoy with my friends"
+ 👯 I like sports and enjoy with my friends.
  
 
 ### 👨‍💻 Languages and Tools
