@@ -1,4 +1,4 @@
-### Hi People
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ![me](https://pbs.twimg.com/profile_banners/1550170123683635200/1658424498/1500x500)
 
 I am Maicol Arcila, I am 18 years old, I am a student of technology in systems at the sena i love programming and learn new things everyday 
@@ -11,7 +11,7 @@ I am Maicol Arcila, I am 18 years old, I am a student of technology in systems a
  👯 I like sports and enjoy with my friends"
  
 
-### Tech & Tools Preference
+### 👨‍💻 Languages and Tools
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -25,5 +25,7 @@ I am Maicol Arcila, I am 18 years old, I am a student of technology in systems a
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="[https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)"> 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicol1912)](https://github.com/anuraghazra/github-readme-stats)
