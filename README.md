@@ -25,7 +25,7 @@ I am Maicol Arcila, I am 18 years old, I am a student of technology in systems a
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="[https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)"> 
+<img src="https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani"> 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicol1912)](https://github.com/anuraghazra/github-readme-stats)
