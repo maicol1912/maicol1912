@@ -2,29 +2,24 @@
 ![me](https://pbs.twimg.com/profile_banners/1550170123683635200/1658424498/1500x500)
  ```python
 
-class Meta(type):
-    def __new__(cls, name, bases, attrs):
-        new_cls = super().__new__(cls, name, bases, attrs)
-        return dataclass(unsafe_hash=True, frozen=True)(new_cls)
+class Bio():
+    Name        = "Maicol Arcila"
+    Age         = 18
+    company     = "Sena"
+    blog        = "[rednafi.github.io/digressions](https://github.com/maicol1912)"
+    aboutMe     = " *I am a student of technology in systems at the sena
+                    *I am an organized, responsible and very dedicated person, I work well in stress situations and I am good at working in a team, I can take on various                      roles without any problem and I love to acquire new knowledge every day 
+                    *I like sports and enjoy with my friends"
 
 
-class Bio(metaclass=Meta):
-    name        : str = "Redowan Delowar"
-    designation : str = "Data Scientist"
-    company     : str = "ShopUp"
-    base        : str = "Dhaka, Bangladesh"
-    blog        : str = "rednafi.github.io/digressions"
-
-
-class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "Go", "Shell")
-    databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Mongo", "Redis")
-    misc        : Tuple[str, ...] = ("Docker", "Celery")
-    ongoing     : Tuple[str, ...] = ("Django", "GraphQL")
-
-
-class Social(metaclass=Meta):
-    twitter     : str = "rednafi"
-    linkedin    : str = "redowan"
+class Stack():
+    languages   = ["Python", "Java" "Javascript", "Css", "Html"]
+    Frameworks  = ["SpringBoot", "Django", "Bootstrap"]
+    databases   : ["MySQL", "MongoDB"]
+    
+class Social():
+    twitter     = "[rednafi](https://twitter.com/MaicolArcila7)"
+    linkedin    = "www.linkedin.com/in/maicolarcila1"
+    Github      = "[https://github.com/maicol1912](https://github.com/maicol1912)"
 ```
 
