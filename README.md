@@ -1,27 +1,39 @@
 ### Hi People
 ![me](https://pbs.twimg.com/profile_banners/1550170123683635200/1658424498/1500x500)
- ```python
 
-class Bio():
-    Name        = "Maicol Arcila"
-    Age         = 18
-    company     = "Sena"
-    blog        = "[rednafi.github.io/digressions](https://github.com/maicol1912)"
-    aboutMe     = " *### I am a student of technology in systems at the sena
-                    *### I am an organized, responsible and very dedicated person,
-                    ### I work well in stress situations and I am good at working in a team, I can take on various                      
-                    ### roles without any problem and I love to acquire new knowledge every day 
-                    *### I like sports and enjoy with my friends"
+I am Maicol Arcila, I am 18 years old, I am a student of technology in systems at the sena i love programming and learn new things everyday 
+                   
+ 
+ 🔭 I am an organized, responsible and very dedicated person.
+ 
+ 🌱 I work well in stress situations and I am good at working in a team I can take on various roles without problems
+ 
+ 👯 I like sports and enjoy with my friends"
+ 
 
-
-class Stack():
-    languages   = ["Python", "Java" "Javascript", "Css", "Html"]
-    Frameworks  = ["SpringBoot", "Django", "Bootstrap"]
-    databases   : ["MySQL", "MongoDB"]
-    
-class Social():
-    twitter     = "[rednafi](https://twitter.com/MaicolArcila7)"
-    linkedin    = "www.linkedin.com/in/maicolarcila1"
-    Github      = "[https://github.com/maicol1912](https://github.com/maicol1912)"
-```
+<h4> mi habilities</h4>
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+33
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+34
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+35
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+36
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+37
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+38
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+39
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+40
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+41
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+42
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+43
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
