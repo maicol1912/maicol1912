@@ -8,7 +8,9 @@ class Bio():
     company     = "Sena"
     blog        = "[rednafi.github.io/digressions](https://github.com/maicol1912)"
     aboutMe     = " *### I am a student of technology in systems at the sena
-                    *### I am an organized, responsible and very dedicated person, I work well in stress situations and I am good at working in a team, I can take on various                      roles without any problem and I love to acquire new knowledge every day 
+                    *### I am an organized, responsible and very dedicated person,
+                    I work well in stress situations and I am good at working in a team, I can take on various                      
+                    roles without any problem and I love to acquire new knowledge every day 
                     *### I like sports and enjoy with my friends"
 
 
