@@ -1,21 +1,30 @@
-### Hola
+### Hi People
 ![me](https://pbs.twimg.com/profile_banners/1550170123683635200/1658424498/1500x500)
-  ```javascript
-  const Maicol Arcila = {
-  lenguajes: [Javascript,HTML, CSS, Java, Python, Java],
-  Frameworks: [React, Django, Spring Boot],
-  databases: [MySql, MongoDB],
-  adicional: [Git, Bootstrap, English],
-  
-  acercaDeMi : {
-                        estudios: "Analisis y desarrollo de sistemas",
-                        idioma: "Español", "Ingles - nivel medio",
-                        edad: 18,
-                        me: "soy un estudiante de tecnologia en analisis y desarrollo de sistemas
-                        tengo 18 años, soy bastante recursivo busco nuevas herramientas y habilidades
-                        que me ayuden a agilizar y automatizar diferentes tareas y disfruto adquirir
-                        nuevos conocimientos dia a dia"
-                      }
- }
- ```
+ ```python
+
+class Meta(type):
+    def __new__(cls, name, bases, attrs):
+        new_cls = super().__new__(cls, name, bases, attrs)
+        return dataclass(unsafe_hash=True, frozen=True)(new_cls)
+
+
+class Bio(metaclass=Meta):
+    name        : str = "Redowan Delowar"
+    designation : str = "Data Scientist"
+    company     : str = "ShopUp"
+    base        : str = "Dhaka, Bangladesh"
+    blog        : str = "rednafi.github.io/digressions"
+
+
+class Stack(metaclass=Meta):
+    languages   : Tuple[str, ...] = ("Python", "Go", "Shell")
+    databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Mongo", "Redis")
+    misc        : Tuple[str, ...] = ("Docker", "Celery")
+    ongoing     : Tuple[str, ...] = ("Django", "GraphQL")
+
+
+class Social(metaclass=Meta):
+    twitter     : str = "rednafi"
+    linkedin    : str = "redowan"
+```
 
