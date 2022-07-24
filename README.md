@@ -1,7 +1,7 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ![me](https://camo.githubusercontent.com/0d388332b13f167e4aeacd1e4b1c8ec707177388f27b2fbfd1d27a87df216f8d/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313535303137303132333638333633353230302f313635383530373337362f3135303078353030)
 
-I am Maicol Arcila, I am 18 years old, I am a student of technology in systems at the sena i love programming and learn new things everyday 
+I am Maicol Arcila, I am 18 years old, I am a studying software development at Sena, I love programming and learn new things everyday 
                    
  
  🔭 I am an organized, responsible and very dedicated person.
