@@ -6,7 +6,7 @@ I am Maicol Arcila, I am 18 years old, I am a studying software development at S
  
  🔭 I am an organized, responsible and very dedicated person.
  
- 🌱 I work well in stress situations and I am good at working in a team, I can take on various roles without problems.
+ 🌱 I work well in stressful situations and I am good at team work, I can take a lot of roles without problems.
  
  👯 I like sports and enjoy with my friends.
  
