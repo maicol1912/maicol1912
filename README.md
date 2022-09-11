@@ -31,7 +31,7 @@ I am Maicol Arcila, I am 18 years old, I am a studying software development at S
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicol1912)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?maicol1912=anuraghazra&show_icons=true&theme=radical)
 
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
