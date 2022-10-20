@@ -36,7 +36,7 @@ I am Maicol Arcila, I am 18 years old, I am a studying software development at S
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="www.linkedin.com/in/maicolarcila1">
+  <a href="https://www.linkedin.com/in/maicolarcila1/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/MaicolArcila7">
