@@ -1,5 +1,5 @@
 ## Welcome to my world
-[![Hoja-de-vida.png](https://i.postimg.cc/Px6Cc6n7/Hoja-de-vida.png)](https://postimg.cc/2bZjL76d)
+
 
 
   I am Maicol Arcila, I am 18 years old, I love the systems and to learn new things everyday 
