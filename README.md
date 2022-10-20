@@ -1,4 +1,4 @@
-## Welcome to my world <img src="[https://u.pcloud.link/publink/show?code=XZ0rEjVZ6lUCTB2sjiSEglika2SbgYXn5YPX](https://twitter.com/MaicolArcila7/status/1582915155276750849/photo/1)">
+## Welcome to my world <img src="https://twitter.com/MaicolArcila7/status/1582915155276750849/photo/1">
 
 
   I am Maicol Arcila, I am 18 years old, I love the systems and to learn new things everyday 
