@@ -1,14 +1,15 @@
 ## Welcome to my world <img src="https://u.pcloud.link/publink/show?code=XZOGEjVZYJl2FDTT5c88kVd5rDjUyY3LUzVV">
 
 
-I am Maicol Arcila, I am 18 years old, I am a studying software development at Sena, I love programming and learn new things everyday 
+  I am Maicol Arcila, I am 18 years old, I love the systems and to learn new things everyday 
                    
+ 🔭 I am stduying software development at sena and I am studying English at Smart, I am in level B1.
  
- 🔭 I am an organized, responsible and very dedicated person.
+ 🌱 I am very persistent in my goals, I am good at teamwork,I have a good interpersonal relationships, 
+     I am open mind to new learnings, I am a resolutive person in the problems, I work well in stressful situations,
+     I want to learn and I can take diferents roles without problems.
  
- 🌱 I work well in stressful situations and I am good at team work, I can take a lot of roles without problems.
- 
- 👯 I like sports and enjoy with my friends.
+ 👯 I like sports and enjoy with my friends, also I like study about new tools or technologies
  
 
 ### 👨‍💻 Languages and Tools
