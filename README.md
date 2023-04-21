@@ -1,41 +1,18 @@
-## Welcome to my world
-[![Banner-Personal.png](https://i.postimg.cc/0yVWZwty/Banner-Personal.png)](https://postimg.cc/yDSy8k4M)
-  I am Maicol Arcila, I am 18 years old, I love the systems and to learn new things everyday 
-                   
- 🔭 I am stduying software development at sena and I am studying English at Smart, I am in level B1.
- 
- 🌱 I am very persistent in my goals, I am good at teamwork,I have a good interpersonal relationships, 
-     I am open mind to new learnings, I am a resolutive person in the problems, I work well in stressful situations,
-     I want to learn and I can take diferents roles without problems.
- 
- 👯 I like sports and enjoy with my friends, also I like study about new tools or technologies
- 
-
-### 👨‍💻 Languages and Tools
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani"> 
-<img src="https://camo.githubusercontent.com/dbd15ab38fefb394138c3d1f96b4ec9bc255b2cbfadee7c6c887e53a527fd6d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d646a616e676f2d626c61636b3f7374796c653d666c6174266c6f676f3d646a616e676f">
-<img src="https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/hritik5102">
+# 💫 About Me:
+• 👨‍💻 Full Stack Developer with experience in web development.<br>• 🔍 Fluent in English at B2 level with a strong proficiency in technical communication.<br>• 📚 Open to new learning opportunities and constantly improving language skills.<br>• 💡 Enjoys learning in English and actively uses it for professional development.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maicolarcila1/) 
 
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Maicol1912&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Maicol1912&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maicol1912&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Maicol1912&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-
-  <a href="https://www.linkedin.com/in/maicolarcila1/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
